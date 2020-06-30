@@ -1,5 +1,7 @@
 # Saleor
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 This repository contains a legacy version of Saleor with its former Storefront 1.0 and Dashboard 1.0 (Django views and HTML templates).
 
 NOTE: We do not currently maintain the legacy version — we provide limited support only as resources are concentrated on the current version. If you would like to maintain the legacy version please open a pull request, we would be happy to review it.
